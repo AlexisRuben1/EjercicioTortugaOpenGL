@@ -1,2 +1,2 @@
 # OpenGL7N
-lineas pixeles
+tortuga por coordendas
